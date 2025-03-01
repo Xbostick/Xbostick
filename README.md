@@ -1,5 +1,24 @@
-## Hi there 👋
-<!image><https://camo.githubusercontent.com/8ec2a7bad78341df17b4b2c9bb4fcfa8703c3ee179a75c063e421dcc2d53c1ff/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31362f36392f65352f31363639653537373631636363363766613565333161303961353437363464302e676966>
+# 👋 Hey, I'm [Xbostick]!
+
+🚀 **Data Science | ML-Ops | Embedded Systems | Healthcare AI**  
+
+🔹 Experienced in **C++ & Python** for data science and machine learning.  
+🔹 Passionate about **model creation, deployment, and automation**.  
+🔹 Skilled in **embedded programming** and applying AI to **healthcare solutions**.  
+🔹 On a mission to master **ML-Ops** and build scalable AI systems.  
+
+### 🔧 Tech Stack  
+💻 **Languages:** C++, Python  
+📊 **ML & AI:** Scikit-Learn, TensorFlow, PyTorch  
+⚙️ **DevOps & Deployment:** Docker, CI/CD, Kubernetes  
+📡 **Embedded:** STM32, ESP32, ARM Cortex  
+
+### 📫 Connect with me  
+- 💼 Telegram [@fox21d10](https://t.me/fox21d10)
+- 📝 Mail borovkov-pavel@yandex.ru
+
+🚀 Always open to collaboration on **ML, embedded AI, and healthcare projects with MLOps opportunity**!  
+
 
 <!--
 **Xbostick/Xbostick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
