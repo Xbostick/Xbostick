@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Xbostick]!
+# 👋 Hey, I'm Xbostick!
 
 🚀 **Data Science | ML-Ops | Embedded Systems | Healthcare AI**  
 
