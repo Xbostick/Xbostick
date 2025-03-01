@@ -18,7 +18,7 @@
 - 📝 Mail borovkov-pavel@yandex.ru
 
 🚀 Always open to collaboration on **ML, embedded AI, and healthcare projects with MLOps opportunity**!  
-
+<div align="center">
 <a href="https://github.com/itzashoffcl"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Xbostick&show_icons=true&locale=en&layout=donut&theme=github_dark"></a>
 
 
