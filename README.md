@@ -2,7 +2,7 @@
 
 🚀 **Data Science | ML-Ops | Embedded Systems | Healthcare AI**  
 
-🔹 Experienced in **C++ & Python** for data science and machine learning.  
+🔹 Experienced in **C** & **Python** for data science and machine learning.  
 🔹 Passionate about **model creation, deployment, and automation**.  
 🔹 Skilled in **embedded programming** and applying AI to **healthcare solutions**.  
 🔹 On a mission to master **ML-Ops** and build scalable AI systems.  
