@@ -19,6 +19,9 @@
 
 🚀 Always open to collaboration on **ML, embedded AI, and healthcare projects with MLOps opportunity**!  
 
+![image](https://github.com/user-attachments/assets/dca69a66-cd45-4eae-91fa-7514f79cbcc6)
+
+
 
 <!--
 **Xbostick/Xbostick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
