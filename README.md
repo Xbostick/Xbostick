@@ -13,14 +13,16 @@
 ⚙️ **DevOps & Deployment:** Docker, CI/CD, Kubernetes  
 📡 **Embedded:** STM32, ESP32, etc.
 
+<div align="center">
+<a href="https://github.com/itzashoffcl"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Xbostick&show_icons=true&locale=en&layout=graph&theme=github_dark"></a>
+
+
+
 ### 📫 Connect with me  
 - 💼 Telegram [@fox21d10](https://t.me/fox21d10)
 - 📝 Mail borovkov-pavel@yandex.ru
 
 🚀 Always open to collaboration on **ML, embedded AI, and healthcare projects with MLOps opportunity**!  
-<div align="center">
-<a href="https://github.com/itzashoffcl"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Xbostick&show_icons=true&locale=en&layout=donut&theme=github_dark"></a>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
