@@ -11,7 +11,7 @@
 💻 **Languages:** C++, Python  
 📊 **ML & AI:** Scikit-Learn, TensorFlow, PyTorch  
 ⚙️ **DevOps & Deployment:** Docker, CI/CD, Kubernetes  
-📡 **Embedded:** STM32, ESP32, ARM Cortex  
+📡 **Embedded:** STM32, ESP32 e.t.c  
 
 ### 📫 Connect with me  
 - 💼 Telegram [@fox21d10](https://t.me/fox21d10)
