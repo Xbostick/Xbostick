@@ -13,11 +13,8 @@
 ⚙️ **DevOps & Deployment:** Docker, CI/CD, Kubernetes  
 📡 **Embedded:** STM32, ESP32, etc.
 
-<div align="center">
 <a href="https://github.com/itzashoffcl"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Xbostick&show_icons=true&locale=en&layout=donut&theme=github_dark"></a>
 
-
-<div align="left">
 
 ### 📫 Connect with me  
 - 💼 Telegram [@fox21d10](https://t.me/fox21d10)
