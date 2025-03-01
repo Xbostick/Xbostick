@@ -19,6 +19,9 @@
 
 🚀 Always open to collaboration on **ML, embedded AI, and healthcare projects with MLOps opportunity**!  
 
+<a href="https://github.com/itzashoffcl"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Xbostick&theme=github_dark&show_icons=true&icon_color=4c8eda&line_height=28&rank_icon=github"></a>
+<a href="https://github.com/itzashoffcl"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Xbostick&show_icons=true&locale=en&layout=donut&theme=github_dark"></a>
+
 ![image](https://github.com/user-attachments/assets/dca69a66-cd45-4eae-91fa-7514f79cbcc6)
 
 
